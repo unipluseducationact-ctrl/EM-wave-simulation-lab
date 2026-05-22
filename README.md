@@ -14,10 +14,11 @@ Open **`em-spectrum.html`** in a modern browser (Chrome, Edge, Firefox, Safari).
 
 ## Files
 
-| File | Description |
-|------|-------------|
+| File / folder | Description |
+|---------------|-------------|
 | `em-spectrum.html` | Main app (HTML, CSS, JavaScript) |
 | `i18n-bundle.json` | UI strings (English / Chinese) |
+| `assets/applications/` | Application images per EM band (PNG) |
 | `Open EM Spectrum.bat` | Windows launcher and UTF-8 helper |
 
 ## Live demo (GitHub Pages)
