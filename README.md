@@ -20,6 +20,12 @@ Open **`em-spectrum.html`** in a modern browser (Chrome, Edge, Firefox, Safari).
 | `i18n-bundle.json` | UI strings (English / Chinese) |
 | `Open EM Spectrum.bat` | Windows launcher and UTF-8 helper |
 
+## Live demo (GitHub Pages)
+
+**https://unipluseducationact-ctrl.github.io/EM-wave-simulation-lab/**
+
+Opens the app in your browser (hosted from the `main` branch).
+
 ## Requirements
 
 - A modern web browser with JavaScript enabled
